@@ -1,0 +1,8 @@
+c:\users\ricardo\documents\visual studio 2015\Projects\Discoverer\Discoverer\bin\Debug\Discoverer.exe.config
+c:\users\ricardo\documents\visual studio 2015\Projects\Discoverer\Discoverer\obj\Debug\Discoverer.csprojResolveAssemblyReference.cache
+c:\users\ricardo\documents\visual studio 2015\Projects\Discoverer\Discoverer\bin\Debug\Discoverer.exe
+c:\users\ricardo\documents\visual studio 2015\Projects\Discoverer\Discoverer\bin\Debug\Discoverer.pdb
+c:\users\ricardo\documents\visual studio 2015\Projects\Discoverer\Discoverer\obj\Debug\Discoverer.exe
+c:\users\ricardo\documents\visual studio 2015\Projects\Discoverer\Discoverer\obj\Debug\Discoverer.pdb
+c:\users\ricardo\documents\visual studio 2015\Projects\Discoverer\Discoverer\bin\Debug\Newtonsoft.Json.dll
+c:\users\ricardo\documents\visual studio 2015\Projects\Discoverer\Discoverer\bin\Debug\Newtonsoft.Json.xml
